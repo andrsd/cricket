@@ -1,0 +1,9 @@
+*.lo
+*.d
+*-opt
+*-dbg
+-*oprof
+lib
+.libs
+
+include/base/CricketRevision.h
